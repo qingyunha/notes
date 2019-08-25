@@ -1,1 +1,1 @@
-# [notes](https://github.com/qingyunha/notes)
+# [notes](https://github.com/qingyunha/notes/issues)
